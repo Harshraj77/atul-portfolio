@@ -702,7 +702,9 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: #005792;
+  color: #fff;
+  border-radius: 2rem;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -1234,7 +1236,7 @@ border: 1px solid rgba(0, 87, 146, 0.96);
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #728394;
+  color: #005792;
 }
 
 .contact .info .email,
